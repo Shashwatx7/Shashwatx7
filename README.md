@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shashwatx7
 - 👀 I’m interested in coding and learning new things.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning CSS, HTML and JS.
 - 😄 Pronouns: he/him
  
 
